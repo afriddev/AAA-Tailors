@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972294625874",
+    "project_id": "ameerunisatailors",
+    "storage_bucket": "ameerunisatailors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972294625874:android:84a9dbfdf13ee6c5391d8b",
+        "android_client_info": {
+          "package_name": "com.tailor.ameerunisa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3qxxZ1SueCpI_fDHAc45nG9KNLBVKcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
