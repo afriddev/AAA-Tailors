@@ -127,7 +127,7 @@ List allProductImages = [
       "Princess Cut Blouse",
       "https://i.ibb.co/Hq8t7L4/b11.jpg",
       "https://i.ibb.co/d2rW8hD/b12.jpg",
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -136,7 +136,7 @@ List allProductImages = [
       "3 Dart Blouse",
       "https://i.ibb.co/2sm6Sbf/b21.jpg",
       "https://i.ibb.co/GTW6w5W/b22.jpg",
-      "2099",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.7",
       "2.3"
@@ -145,7 +145,7 @@ List allProductImages = [
       "Embroidered Blouse",
       "https://i.ibb.co/c10rkr5/b31.jpg",
       "https://i.ibb.co/v30VLNd/b32.jpg",
-      "1699",
+      "1200",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.6",
       "1.8"
@@ -154,7 +154,7 @@ List allProductImages = [
       "Elasticated Blouse",
       "https://i.ibb.co/kqw6Bxc/b41.jpg",
       "https://i.ibb.co/z8zkP9N/b42.jpg",
-      "1399",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.4",
       "1.1"
@@ -163,7 +163,7 @@ List allProductImages = [
       "Katori Blouse",
       "https://i.ibb.co/W3WThbV/b51.jpg",
       "https://i.ibb.co/5W2RBh9/b52.jpg",
-      "900",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.9",
       "2.7"
@@ -172,7 +172,7 @@ List allProductImages = [
       "Choli Blouse",
       "https://i.ibb.co/nQL1SG6/b61.jpg",
       "https://i.ibb.co/xDmW6m1/b62.jpg",
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.6",
       "2.1"
@@ -181,7 +181,7 @@ List allProductImages = [
       "Designer Blouse",
       "https://i.ibb.co/27cxrJJ/b71.jpg",
       "https://i.ibb.co/DYPW9NR/b72.jpg",
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "5.0",
       "3.2"
@@ -190,7 +190,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[0],
       blouseDesigns[0],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -199,7 +199,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[1],
       blouseDesigns[1],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -209,7 +209,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[2],
       blouseDesigns[2],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -218,7 +218,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[3],
       blouseDesigns[3],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -227,7 +227,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[4],
       blouseDesigns[4],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -236,7 +236,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[5],
       blouseDesigns[5],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -245,7 +245,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[6],
       blouseDesigns[6],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -254,7 +254,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[7],
       blouseDesigns[7],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -263,7 +263,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[8],
       blouseDesigns[8],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -272,7 +272,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[9],
       blouseDesigns[9],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -281,7 +281,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[10],
       blouseDesigns[10],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -290,7 +290,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[11],
       blouseDesigns[11],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -299,7 +299,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[12],
       blouseDesigns[12],
-      "999",
+      "500",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -308,7 +308,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[13],
       blouseDesigns[13],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -317,7 +317,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[14],
       blouseDesigns[14],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -326,7 +326,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[15],
       blouseDesigns[15],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -335,7 +335,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[16],
       blouseDesigns[16],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -344,7 +344,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[17],
       blouseDesigns[17],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -353,7 +353,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[18],
       blouseDesigns[18],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -362,7 +362,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[19],
       blouseDesigns[19],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -371,7 +371,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[20],
       blouseDesigns[20],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -380,7 +380,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[21],
       blouseDesigns[21],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -389,7 +389,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[22],
       blouseDesigns[22],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -398,7 +398,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[23],
       blouseDesigns[23],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -407,7 +407,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[24],
       blouseDesigns[24],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -416,7 +416,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[25],
       blouseDesigns[25],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -425,7 +425,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[26],
       blouseDesigns[26],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -434,7 +434,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[27],
       blouseDesigns[27],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -443,7 +443,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[28],
       blouseDesigns[28],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -452,7 +452,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[29],
       blouseDesigns[29],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -461,7 +461,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[30],
       blouseDesigns[30],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -470,7 +470,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[31],
       blouseDesigns[31],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -479,7 +479,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[32],
       blouseDesigns[32],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -488,7 +488,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[33],
       blouseDesigns[33],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -497,7 +497,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[34],
       blouseDesigns[34],
-      "999",
+      "500",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -506,7 +506,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[35],
       blouseDesigns[35],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -515,7 +515,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[36],
       blouseDesigns[36],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -524,7 +524,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[37],
       blouseDesigns[37],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -533,7 +533,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[38],
       blouseDesigns[38],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -542,7 +542,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[39],
       blouseDesigns[39],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -551,7 +551,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[40],
       blouseDesigns[40],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -560,7 +560,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[41],
       blouseDesigns[41],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -569,7 +569,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[42],
       blouseDesigns[42],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -578,7 +578,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[43],
       blouseDesigns[43],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -587,7 +587,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[44],
       blouseDesigns[44],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -596,7 +596,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[45],
       blouseDesigns[45],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -605,7 +605,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[46],
       blouseDesigns[46],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -614,7 +614,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[47],
       blouseDesigns[47],
-      "999",
+      "500",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -623,7 +623,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[48],
       blouseDesigns[48],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -632,7 +632,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[49],
       blouseDesigns[49],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -641,7 +641,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[50],
       blouseDesigns[50],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -650,7 +650,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[51],
       blouseDesigns[51],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -659,7 +659,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[52],
       blouseDesigns[52],
-      "999",
+      "400",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -668,7 +668,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[53],
       blouseDesigns[53],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -677,7 +677,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[54],
       blouseDesigns[54],
-      "999",
+      "500",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -686,7 +686,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[55],
       blouseDesigns[55],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -695,7 +695,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[56],
       blouseDesigns[56],
-      "999",
+      "300",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -704,7 +704,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[57],
       blouseDesigns[57],
-      "999",
+      "500",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -713,7 +713,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[58],
       blouseDesigns[58],
-      "999",
+      "450",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -722,7 +722,7 @@ List allProductImages = [
       "Blouse designs",
       blouseDesigns[59],
       blouseDesigns[59],
-      "999",
+      "350",
       "Explore our curated blouse collection, combining tradition and style for the perfect complement to your sarees and outfits.",
       "4.5",
       "1.5"
@@ -734,7 +734,7 @@ List allProductImages = [
       "Kaftan Kurta",
       "https://i.ibb.co/h8NGrwK/k11.jpg",
       "https://i.ibb.co/3zXVmJ1/k12.jpg",
-      "999",
+      "300",
       "Discover versatile kurtas in our collection, blending comfort with elegance. Perfect for any occasion, they reflect your unique style effortlessly.",
       "4.9",
       "3.1"
@@ -743,7 +743,7 @@ List allProductImages = [
       "Straight Cut Kurta",
       "https://i.ibb.co/ckp27fN/k21.jpg",
       "https://i.ibb.co/gg0VMjK/k22.jpg",
-      "999",
+      "300",
       "Discover versatile kurtas in our collection, blending comfort with elegance. Perfect for any occasion, they reflect your unique style effortlessly.",
       "4.4",
       "2.1"
@@ -752,7 +752,7 @@ List allProductImages = [
       "Angrakha Kurta",
       "https://i.ibb.co/VwXqm1N/k31.jpg",
       "https://i.ibb.co/Kbr4MtF/k32.jpg",
-      "999",
+      "350",
       "Discover versatile kurtas in our collection, blending comfort with elegance. Perfect for any occasion, they reflect your unique style effortlessly.",
       "4.6",
       "2.5"
@@ -761,7 +761,7 @@ List allProductImages = [
       "Anarkali Kurta",
       "https://i.ibb.co/Q9bJjt4/k41.jpg",
       "https://i.ibb.co/Ydy2p2g/k42.jpg",
-      "999",
+      "300",
       "Discover versatile kurtas in our collection, blending comfort with elegance. Perfect for any occasion, they reflect your unique style effortlessly.",
       "4.8",
       "2.9"
@@ -770,7 +770,7 @@ List allProductImages = [
       "Sherwani Style Kurta",
       "https://i.ibb.co/mzZJMv2/k51.jpg",
       "https://i.ibb.co/xGGz3fn/k52.jpg",
-      "999",
+      "400",
       "Discover versatile kurtas in our collection, blending comfort with elegance. Perfect for any occasion, they reflect your unique style effortlessly.",
       "4.8",
       "2.5"
@@ -779,7 +779,7 @@ List allProductImages = [
       "Designer Kurta",
       "https://i.ibb.co/Mpqfx8f/k61.jpg",
       "https://i.ibb.co/KqHCG1g/k62.jpg",
-      "999",
+      "500",
       "Discover versatile kurtas in our collection, blending comfort with elegance. Perfect for any occasion, they reflect your unique style effortlessly.",
       "5.0",
       "3.7"
@@ -790,7 +790,7 @@ List allProductImages = [
       "Umbrella Cut Lehenga",
       "https://i.ibb.co/bWGtvk1/l11.jpg",
       "https://i.ibb.co/CK0KQFQ/l12.jpg",
-      "999",
+      "650",
       "Elevate your style with our exquisite lehengas. Crafted for elegance and grace, they're perfect for special occasions, showcasing your distinct charm.",
       "4.6",
       "2.2"
@@ -799,7 +799,7 @@ List allProductImages = [
       "Pleated Lehenga",
       "https://i.ibb.co/J3bKpt1/l21.jpg",
       "https://i.ibb.co/PFGn3CX/l22.jpg",
-      "999",
+      "700",
       "Elevate your style with our exquisite lehengas. Crafted for elegance and grace, they're perfect for special occasions, showcasing your distinct charm.",
       "4.9",
       "3.1"
@@ -808,7 +808,7 @@ List allProductImages = [
       "Kalidar Lehenga",
       "https://i.ibb.co/N6nQSfT/l31.jpg",
       "https://i.ibb.co/vsL2jXv/l32.jpg",
-      "999",
+      "700",
       "Elevate your style with our exquisite lehengas. Crafted for elegance and grace, they're perfect for special occasions, showcasing your distinct charm.",
       "4.6",
       "2.5"
@@ -817,7 +817,7 @@ List allProductImages = [
       "Fish Cut Lehenga Skirt",
       "https://i.ibb.co/Zgc6rcq/l41.jpg",
       "https://i.ibb.co/KDyJrdX/l42.jpg",
-      "999",
+      "800",
       "Elevate your style with our exquisite lehengas. Crafted for elegance and grace, they're perfect for special occasions, showcasing your distinct charm.",
       "4.9",
       "3.7"
@@ -826,7 +826,7 @@ List allProductImages = [
       "Designer Lehenga Skirt",
       "https://i.ibb.co/LxxpCjw/l51.jpg",
       "https://i.ibb.co/wCqcf6y/l52.jpg",
-      "999",
+      "900",
       "Elevate your style with our exquisite lehengas. Crafted for elegance and grace, they're perfect for special occasions, showcasing your distinct charm.",
       "5.0",
       "4.1"
@@ -837,7 +837,7 @@ List allProductImages = [
       "Kaftan Top",
       "https://i.ibb.co/VV0YFqh/tw11.jpg",
       "https://i.ibb.co/ZXw7ytD/tw12.jpg",
-      "999",
+      "300",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "4.5",
       "2.4"
@@ -846,7 +846,7 @@ List allProductImages = [
       "Crop Top",
       "https://i.ibb.co/XYkrnmK/tw21.jpg",
       "https://i.ibb.co/NrPTnk2/tw22.jpg",
-      "999",
+      "250",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "4.9",
       "3.7"
@@ -855,7 +855,7 @@ List allProductImages = [
       "Wrap Top",
       "https://i.ibb.co/3NrsX1X/tw31.jpg",
       "https://i.ibb.co/2jjjb7Q/tw32.jpg",
-      "999",
+      "300",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "4.7",
       "2.3"
@@ -864,7 +864,7 @@ List allProductImages = [
       "Shirts",
       "https://i.ibb.co/JxkYSGh/tw41.jpg",
       "https://i.ibb.co/VLkCksS/tw42.jpg",
-      "999",
+      "350",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "4.4",
       "2.3"
@@ -873,7 +873,7 @@ List allProductImages = [
       "Camisole",
       "https://i.ibb.co/2WyQq9s/tw51.jpg",
       "https://i.ibb.co/2WyQq9s/tw51.jpg",
-      "999",
+      "300",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "4.1",
       "2.4"
@@ -882,7 +882,7 @@ List allProductImages = [
       "Boxy Top",
       "https://i.ibb.co/gwP7r1t/tw61.jpg",
       "https://i.ibb.co/gV8gfN9/tw62.jpg",
-      "999",
+      "400",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "4.4",
       "3.6"
@@ -891,7 +891,7 @@ List allProductImages = [
       "Designer Tops",
       "https://i.ibb.co/N9vFMwd/tw71.jpg",
       "https://i.ibb.co/WHy8vSL/tw72.jpg",
-      "999",
+      "450",
       "Elevate your look with our versatile tops collection. From casual to chic, discover the perfect top to express your individual style.",
       "5.0",
       "4.1"
@@ -902,7 +902,7 @@ List allProductImages = [
       "Salwar",
       "https://i.ibb.co/WtdHKF7/bw11.jpg",
       "https://i.ibb.co/Sd2rBTJ/bw12.jpg",
-      "999",
+      "350",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "4.6",
       "3.1"
@@ -911,7 +911,7 @@ List allProductImages = [
       "Patiala",
       "https://i.ibb.co/0XfBY58/bw21.jpg",
       "https://i.ibb.co/qmGjxSL/bw22.jpg",
-      "999",
+      "300",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "4.9",
       "4.1"
@@ -920,7 +920,7 @@ List allProductImages = [
       "Palazzos",
       "https://i.ibb.co/jbz1RhR/bw31.jpg",
       "https://i.ibb.co/4mMfCKy/bw32.jpg",
-      "999",
+      "350",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "4.7",
       "3.4"
@@ -929,7 +929,7 @@ List allProductImages = [
       "Straight Pants",
       "https://i.ibb.co/Scdhsvj/bw41.jpg",
       "https://i.ibb.co/9ZMKg73/bw42.jpg",
-      "999",
+      "400",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "4.8",
       "2.8"
@@ -938,7 +938,7 @@ List allProductImages = [
       "Cigarette Pants",
       "https://i.ibb.co/k0tQjD0/bw51.jpg",
       "https://i.ibb.co/Zd2vHmX/bw52.jpg",
-      "999",
+      "450",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "3.8",
       "1.3"
@@ -947,7 +947,7 @@ List allProductImages = [
       "Churidhars",
       "https://i.ibb.co/dpCyQLg/bw61.jpg",
       "https://i.ibb.co/3s4Ck3y/bw62.jpg",
-      "999",
+      "350",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "4.8",
       "3.7"
@@ -956,7 +956,7 @@ List allProductImages = [
       "Sharara/Gharara",
       "https://i.ibb.co/fQ5BZtD/bw71.jpg",
       "https://i.ibb.co/5xx64PT/bw72.jpg",
-      "999",
+      "400",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "4.7",
       "4.1"
@@ -967,14 +967,14 @@ List allProductImages = [
       "https://i.ibb.co/d7vG0PH/bw82.jpg",
       "999",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
-      "4.3",
+      "400",
       "2.8"
     ],
     [
       "Designer Bottoms",
       "https://i.ibb.co/VvbyKBk/bw91.jpg",
       "https://i.ibb.co/qn8TXz9/bw92.jpg",
-      "99",
+      "450",
       "Complete your wardrobe with our fashionable bottom wear. Find the perfect fit for your style and comfort.",
       "5.0",
       "4.7"
@@ -985,7 +985,7 @@ List allProductImages = [
       "Kaftan Dress",
       "https://i.ibb.co/DCr6WWy/d11.jpg",
       "https://i.ibb.co/ggtcJ1z/d12.jpg",
-      "999",
+      "300",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.7",
       "2.8"
@@ -994,7 +994,7 @@ List allProductImages = [
       "Sun Dress",
       "https://i.ibb.co/XxMRMG5/d21.jpg",
       "https://i.ibb.co/m80tKHG/d22.jpg",
-      "999",
+      "300",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.6",
       "3.1"
@@ -1003,7 +1003,7 @@ List allProductImages = [
       "Skater Dress",
       "https://i.ibb.co/SPhkfVc/d31.jpg",
       "https://i.ibb.co/PTC34Gx/d32.jpg",
-      "999",
+      "300",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.5",
       "3.1"
@@ -1012,7 +1012,7 @@ List allProductImages = [
       "Pinafore Dress",
       "https://i.ibb.co/yYtg7xN/d41.jpg",
       "https://i.ibb.co/TRyxxbm/d42.jpg",
-      "999",
+      "300",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.4",
       "2.5"
@@ -1021,7 +1021,7 @@ List allProductImages = [
       "Wrap Dress",
       "https://i.ibb.co/yVv9j28/d51.jpg",
       "https://i.ibb.co/BGpQBtK/d52.jpg",
-      "999",
+      "350",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.7",
       "3.2"
@@ -1030,7 +1030,7 @@ List allProductImages = [
       "Slip Dress",
       "https://i.ibb.co/gTfPWdq/d61.jpg",
       "https://i.ibb.co/nzt6hKK/d62.jpg",
-      "999",
+      "300",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.8",
       "2.6"
@@ -1039,7 +1039,7 @@ List allProductImages = [
       "Shirt Style Dress",
       "https://i.ibb.co/S5scGgq/d71.jpg",
       "https://i.ibb.co/42gDN5n/d72.jpg",
-      "999",
+      "400",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "4.3",
       "2.6"
@@ -1048,7 +1048,7 @@ List allProductImages = [
       "Designer Dresses",
       "https://i.ibb.co/W08D0vq/d81.jpg",
       "https://i.ibb.co/NNN7NMn/d82.jpg",
-      "999",
+      "500",
       "Elevate your style with our diverse dress collection. From casual to formal, our dresses reflect your unique fashion sensibility.",
       "5.0",
       "4.9"
@@ -1059,7 +1059,7 @@ List allProductImages = [
       "Pencil Skirt",
       "https://i.ibb.co/zF0wHh2/s11.jpg",
       "https://i.ibb.co/h90m2kR/s12.jpg",
-      "999",
+      "400",
       "Discover versatile skirts in our collection, blending style with comfort. Perfect for various occasions, they reflect your unique fashion effortlessly.",
       "4.2",
       "3.1"
@@ -1068,7 +1068,7 @@ List allProductImages = [
       "Flared Skirt",
       "https://i.ibb.co/r2T4chh/s21.jpg",
       "https://i.ibb.co/tcBX6SJ/s22.jpg",
-      "999",
+      "350",
       "Discover versatile skirts in our collection, blending style with comfort. Perfect for various occasions, they reflect your unique fashion effortlessly.",
       "4.6",
       "3.1"
@@ -1077,7 +1077,7 @@ List allProductImages = [
       "Wrap Skirt",
       "https://i.ibb.co/zmHw9tt/s31.jpg",
       "https://i.ibb.co/j35dgqq/s32.jpg",
-      "999",
+      "300",
       "Discover versatile skirts in our collection, blending style with comfort. Perfect for various occasions, they reflect your unique fashion effortlessly.",
       "4.8",
       "3.5"
@@ -1086,7 +1086,7 @@ List allProductImages = [
       "Tiered Skirt",
       "https://i.ibb.co/bPFRT0y/s41.jpg",
       "https://i.ibb.co/QkWxkxc/s42.jpg",
-      "999",
+      "350",
       "Discover versatile skirts in our collection, blending style with comfort. Perfect for various occasions, they reflect your unique fashion effortlessly.",
       "4.6",
       "3.2"
@@ -1095,7 +1095,7 @@ List allProductImages = [
       "Designer Skirts",
       "https://i.ibb.co/wrXS2BF/s51.jpg",
       "https://i.ibb.co/7j7GnVF/s52.jpg",
-      "999",
+      "400",
       "Discover versatile skirts in our collection, blending style with comfort. Perfect for various occasions, they reflect your unique fashion effortlessly.",
       "4.9",
       "4.2"
@@ -1106,7 +1106,7 @@ List allProductImages = [
       "Tops",
       "https://i.ibb.co/F4SCCQH/sk41.jpg",
       "https://i.ibb.co/jTrvTb3/sk42.jpg",
-      "999",
+      "350",
       "Elevate your child's style with our curated kids' wear collection. From adorable dresses to dapper outfits, find fashion that suits their personality.",
       "4.7",
       "3.1"
@@ -1115,7 +1115,7 @@ List allProductImages = [
       "Gowns",
       "https://i.ibb.co/bsTfLq7/sk51.jpg",
       "https://i.ibb.co/SrRkrYK/sk52.jpg",
-      "999",
+      "400",
       "Elevate your child's style with our curated kids' wear collection. From adorable dresses to dapper outfits, find fashion that suits their personality.",
       "4.9",
       "5.2"
@@ -1124,7 +1124,7 @@ List allProductImages = [
       "Pattu Pavadai",
       "https://i.ibb.co/MPsKwhV/sk61.jpg",
       "https://i.ibb.co/pXD6Dzn/sk62.jpg",
-      "999",
+      "400",
       "Elevate your child's style with our curated kids' wear collection. From adorable dresses to dapper outfits, find fashion that suits their personality.",
       "4.6",
       "3.3"
@@ -1133,7 +1133,7 @@ List allProductImages = [
       "Lehenga Choli",
       "https://i.ibb.co/37GJ1sG/sk71.jpg",
       "https://i.ibb.co/0B3nGgH/sk72.jpg",
-      "999",
+      "350",
       "Elevate your child's style with our curated kids' wear collection. From adorable dresses to dapper outfits, find fashion that suits their personality.",
       "4.5",
       "3.1"
@@ -1142,7 +1142,7 @@ List allProductImages = [
       "Kurta Pant",
       "https://i.ibb.co/m9hshDk/sk81.jpg",
       "https://i.ibb.co/K9qhpMf/sk82.jpg",
-      "999",
+      "300",
       "Elevate your child's style with our curated kids' wear collection. From adorable dresses to dapper outfits, find fashion that suits their personality.",
       "4.7",
       "2.3"
@@ -1151,7 +1151,7 @@ List allProductImages = [
       "Other Ethnic Styles for Girls",
       "https://i.ibb.co/qmCbP6H/sk91.jpg",
       "https://i.ibb.co/DrMQ8F2/sk92.jpg",
-      "999",
+      "300",
       "Elevate your child's style with our curated kids' wear collection. From adorable dresses to dapper outfits, find fashion that suits their personality.",
       "4.3",
       "2.1"
@@ -1162,7 +1162,7 @@ List allProductImages = [
       "Mask",
       "https://i.ibb.co/HK843zd/msk11.jpg",
       "https://i.ibb.co/HK843zd/msk11.jpg",
-      "999",
+      "30",
       "Stay safe and stylish with our mask collection. Crafted for comfort and protection, our masks are essential accessories for modern living.",
       "4.9",
       "2.1"
@@ -1171,7 +1171,7 @@ List allProductImages = [
       "Mask - Set of 2",
       "https://i.ibb.co/HK843zd/msk11.jpg",
       "https://i.ibb.co/HK843zd/msk11.jpg",
-      "999",
+      "50",
       "Stay safe and stylish with our mask collection. Crafted for comfort and protection, our masks are essential accessories for modern living.",
       "5.0",
       "1.7"
@@ -1180,7 +1180,7 @@ List allProductImages = [
       "Mask - Set of 3",
       "https://i.ibb.co/HK843zd/msk11.jpg",
       "https://i.ibb.co/HK843zd/msk11.jpg",
-      "999",
+      "70",
       "Stay safe and stylish with our mask collection. Crafted for comfort and protection, our masks are essential accessories for modern living.",
       "4.6",
       "1.1"
